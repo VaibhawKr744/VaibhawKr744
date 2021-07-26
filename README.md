@@ -6,7 +6,7 @@
 I am a web developer.
 I code in Html | Css | Javascript | React 
 
-- 🌱 I'm currently learning NodeJs
+- 🌱 I'm currently learning NodeJs and NextJs
 - 👯 I’m looking to collaborate on MERN stack projects
 - 👩‍💻 I can work on front-end developement
 ## Quick overview
