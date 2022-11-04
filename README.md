@@ -6,9 +6,9 @@
 I am a web developer.
 I code in Html | Css | Saas | Javascript | React.
 
-- 🌱 I'm currently learning NodeJs and NextJs.
+- 🌱 I'm a fullstack developer.
 - 👯 I’m looking to collaborate on MERN stack projects.
-- 👩‍💻 I can work on front-end developement.
+- 👩‍💻 I can work on ReactJs, NextJs, NodeJs, Javascript developement.
 ## Quick overview
 * GitHub stats:  
 <a href="https://github.com/VaibhawKr744/github-readme-stats">
