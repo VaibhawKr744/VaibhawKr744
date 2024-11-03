@@ -3,8 +3,8 @@
 
 
 
-I am a web developer.
-I code in Html | Css | Saas | Javascript | React.
+I am a fullstack developer.
+I code in Html | Css | Saas | Javascript | React | Node | Python.
 
 - 🌱 I'm a fullstack developer.
 - 👯 I’m looking to collaborate on MERN stack projects.
